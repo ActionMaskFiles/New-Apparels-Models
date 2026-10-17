@@ -1,4 +1,4 @@
-Custom Bootleg Apperals for the game Tales of pirates also know as King of Pirates or PKO.
+Custom Bootleg Apparels for the game Tales of pirates also know as King of Pirates or PKO.
 
 Place the .lgo and .bmp files into your client's model/character and texture/character folders.
 
